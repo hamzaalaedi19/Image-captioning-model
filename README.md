@@ -55,7 +55,7 @@ The model was trained and tested on a cleaned subset of the **Flickr8k** dataset
 
 ---
 
-## 📈 Performance
+##  Performance
 
 The model was evaluated using **BLEU scores**, and achieved reasonable accuracy given the simplicity of the architecture and dataset size.
 
